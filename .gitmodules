@@ -1,0 +1,4 @@
+[submodule "nersc.gitlab.io"]
+	path = nersc.gitlab.io
+	url = git@gitlab.com:NERSC/nersc.gitlab.io.git
+	branch = main
